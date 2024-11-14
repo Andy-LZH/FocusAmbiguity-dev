@@ -35,16 +35,17 @@ for item, data in source_data_ambiguous.items():
         destination_files_ambiguous[file_to_access], "r", encoding="utf-8"
     ) as file:
         dest_data = json.load(file)
+    dest_data[offset]["questions"] = data["questions"]
     dest_data[offset]["selected_questions"] = [data["selected_question"]]
     dest_data[offset]["selected_objects_polygons"] = data["selected_objects_polygons"]
     dest_data[offset]["selected_parts_polygons"] = data["selected_parts_polygons"]
 
-    # json.dump(
-    #     dest_data,
-    #     open(destination_files_ambiguous[file_to_access], "w"),
-    #     indent=2,
-    #     ensure_ascii=False,
-    # )
+    json.dump(
+        dest_data,
+        open(destination_files_ambiguous[file_to_access], "w"),
+        indent=2,
+        ensure_ascii=False,
+    )
 
 for item, data in source_data_unambiguous.items():
     file_to_access = (int(item) // 50) - min_index
@@ -54,16 +55,17 @@ for item, data in source_data_unambiguous.items():
         destination_files_unambiguous[file_to_access], "r", encoding="utf-8"
     ) as file:
         dest_data = json.load(file)
+    dest_data[offset]["questions"] = data["questions"]
     dest_data[offset]["selected_questions"] = [data["selected_question"]]
     dest_data[offset]["selected_objects_polygons"] = data["selected_objects_polygons"]
     dest_data[offset]["selected_parts_polygons"] = data["selected_parts_polygons"]
 
-    # json.dump(
-    #     dest_data,
-    #     open(destination_files_unambiguous[file_to_access], "w"),
-    #     indent=2,
-    #     ensure_ascii=False,
-    # )
+    json.dump(
+        dest_data,
+        open(destination_files_unambiguous[file_to_access], "w"),
+        indent=2,
+        ensure_ascii=False,
+    )
 
 # save item list to a file
 with open("item_list.json", "w") as file:
