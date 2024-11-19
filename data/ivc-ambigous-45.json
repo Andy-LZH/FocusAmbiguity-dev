@@ -1132,7 +1132,11 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      0,
+      1,
+      2
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "bucket",
@@ -1150,14 +1154,17 @@
       "body"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      2
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000342996.jpg",
     "questions": [
       "Is something being worn?",
       "Which one appears closer to the flowers?",
-      "Which watch is more visible?"
+      "Which watch is more visible?",
+      "what type of watch is that?"
     ],
     "original_questions": [
       "Is something being worn?",
@@ -2539,7 +2546,10 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      3,
+      2
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "vase",
@@ -2558,7 +2568,9 @@
       "strap"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000242606.jpg",
@@ -4468,7 +4480,8 @@
     "questions": [
       "Is the remote control operating something?",
       "Which remote control is being used?",
-      "What is being held in the hands?"
+      "What is being held in the hands?",
+      "where is that remote she is holding pointing at?"
     ],
     "original_questions": [
       "Is the remote control operating something?",
@@ -6658,7 +6671,11 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      2,
+      3,
+      5
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "trash_can",
@@ -6681,7 +6698,9 @@
       "strap"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000486513.jpg",
@@ -10764,7 +10783,15 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      7,
+      3,
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "trash_can",
@@ -10809,7 +10836,9 @@
       "leg"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      2
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000442364.jpg",
@@ -16607,7 +16636,9 @@
       "base"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      -1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/val2017/000000013923.jpg",
@@ -19057,14 +19088,17 @@
       "hand"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      -1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/val2017/000000273551.jpg",
     "questions": [
       "Is the visor attached?",
       "Which helmet is closest to a mirror?",
-      "What is being reflected in the mirrors?"
+      "What is being reflected in the mirrors?",
+      "what is written on that helmet on the last bike to the left?"
     ],
     "original_questions": [
       "Is the visor attached?",
@@ -20510,7 +20544,11 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      5,
+      7,
+      4
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "mirror",
@@ -20535,7 +20573,9 @@
       "logo"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000234433.jpg",
@@ -27401,7 +27441,13 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      1,
+      2,
+      0,
+      6,
+      4
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "car",
@@ -27443,7 +27489,9 @@
       "wheel"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      0
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000109340.jpg",
@@ -43267,7 +43315,9 @@
       "rim"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      -1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000531852.jpg",
@@ -59978,7 +60028,8 @@
     "questions": [
       "Is the scarf being worn?",
       "Who is wearing a scarf?",
-      "Which scarf complements the outfit?"
+      "Which scarf complements the outfit?",
+      "what color is the scarf he is putting on?"
     ],
     "original_questions": [
       "Is the scarf being worn?",
@@ -61536,7 +61587,10 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      0,
+      1
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "scarf",
@@ -61551,14 +61605,17 @@
       "body"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/val2017/000000127263.jpg",
     "questions": [
       "Where is the outsole visible?",
       "Which part appears more worn from use?",
-      "Which part of the shoe supports jumping?"
+      "Which part of the shoe supports jumping?",
+      "what type of shoe is this?"
     ],
     "original_questions": [
       "Where is the outsole visible?",
@@ -63186,7 +63243,12 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      1,
+      0,
+      2,
+      3
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "shoe",
@@ -63211,7 +63273,9 @@
       "quarter"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/val2017/000000275749.jpg",
@@ -64778,14 +64842,17 @@
       "inner_body"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      -1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000514930.jpg",
     "questions": [
       "What is projected on the screen?",
       "Which screen is displaying the presentation?",
-      "What is displayed on the screen?"
+      "What is displayed on the screen?",
+      "What is on the computer screen?"
     ],
     "original_questions": [
       "What is projected on the screen?",
@@ -65868,7 +65935,10 @@
       ]
     ],
     "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_parts_polygons": [
+      3,
+      2
+    ],
     "objects_labels": [
       "belt",
       "belt",
@@ -65882,14 +65952,17 @@
       "screen"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000523390.jpg",
     "questions": [
       "Where is the storage?",
       "Where are the handles positioned?",
-      "Which part is reflecting light?"
+      "Which part is reflecting light?",
+      "what type of blade does that knife has?"
     ],
     "original_questions": [
       "Where is the storage?",
@@ -67631,7 +67704,12 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      2,
+      0,
+      1,
+      3
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "knife",
@@ -67650,7 +67728,9 @@
       "inner_side"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000553284.jpg",
@@ -79309,7 +79389,8 @@
     "questions": [
       "Is the visor covering the eyes?",
       "Which visor is reflecting light?",
-      "Which visor is reflecting the most light?"
+      "Which visor is reflecting the most light?",
+      "What is the color of the helmet?"
     ],
     "original_questions": [
       "Is the visor covering the eyes?",
@@ -80191,7 +80272,12 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      3,
+      2,
+      0,
+      1
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "helmet",
@@ -80206,14 +80292,17 @@
       "visor"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000292844.jpg",
     "questions": [
       "How does the shade relate to the lamp?",
       "Which lamp is turned on in the image?",
-      "Is the lamp shade turned on?"
+      "Is the lamp shade turned on?",
+      "What is the shape of the lamp shade?"
     ],
     "original_questions": [
       "How does the shade relate to the lamp?",
@@ -81926,7 +82015,12 @@
       ]
     ],
     "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_parts_polygons": [
+      3,
+      0,
+      5,
+      6
+    ],
     "objects_labels": [
       "lamp",
       "lamp",
@@ -81946,7 +82040,9 @@
       "leg"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000140284.jpg",
@@ -86559,7 +86655,11 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      5,
+      8,
+      6
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "plate",
@@ -86593,7 +86693,9 @@
       "body"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      2
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000433921.jpg",
@@ -89296,7 +89398,12 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      1,
+      0,
+      3,
+      4
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "mug",
@@ -89322,14 +89429,17 @@
       "tip"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      0
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000304905.jpg",
     "questions": [
       "Is there a cap attached to this?",
       "Which part of the bottles is visible?",
-      "What is placed beside the body of the bottles?"
+      "What is placed beside the body of the bottles?",
+      "how far is that bottle from the toilet?"
     ],
     "original_questions": [
       "Is there a cap attached to this?",
@@ -92631,7 +92741,13 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      1,
+      3,
+      2,
+      4,
+      0
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "bottle",
@@ -92671,14 +92787,17 @@
       "shade"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000407693.jpg",
     "questions": [
       "What is the person holding?",
       "Where is the towel placed?",
-      "What is next to the towel?"
+      "What is next to the towel?",
+      "Is this book's title showing?"
     ],
     "original_questions": [
       "What is the person holding?",
@@ -95894,8 +96013,13 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_objects_polygons": [
+      9,
+      4
+    ],
+    "selected_parts_polygons": [
+      8
+    ],
     "objects_labels": [
       "clock",
       "book",
@@ -95924,14 +96048,17 @@
       "body"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000512797.jpg",
     "questions": [
       "What is shown above the platforms?",
       "Which case is directly under the clock?",
-      "Which hands are pointing towards the number 12?"
+      "Which hands are pointing towards the number 12?",
+      "where is the hand of that clock pointing at?"
     ],
     "original_questions": [
       "What is shown above the platforms?",
@@ -99292,7 +99419,14 @@
       ]
     ],
     "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_parts_polygons": [
+      9,
+      11,
+      15,
+      5,
+      1,
+      0
+    ],
     "objects_labels": [
       "clock",
       "clock",
@@ -99324,7 +99458,9 @@
       "hand"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000531929.jpg",
@@ -108811,7 +108947,12 @@
       ]
     ],
     "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_parts_polygons": [
+      0,
+      21,
+      8,
+      28
+    ],
     "objects_labels": [
       "car",
       "car",
@@ -108855,14 +108996,17 @@
       "roof"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      0
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000405862.jpg",
     "questions": [
       "Is everything ready inside?",
       "What is inside the box?",
-      "What's inside the container?"
+      "What's inside the container?",
+      "What shape is the box?"
     ],
     "original_questions": [
       "Is everything ready inside?",
@@ -111786,7 +111930,13 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      0,
+      1,
+      4,
+      3,
+      2
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "box",
@@ -111817,14 +111967,17 @@
       "body"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000064824.jpg",
     "questions": [
       "What is supporting the items being carried?",
       "Where is the handbag placed?",
-      "Which part is holding something up?"
+      "Which part is holding something up?",
+      "what type of belt is he wearing?"
     ],
     "original_questions": [
       "What is supporting the items being carried?",
@@ -114116,7 +114269,11 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      2,
+      0,
+      1
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "belt",
@@ -114140,7 +114297,9 @@
       "leg"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000181139.jpg",
@@ -115809,7 +115968,8 @@
     "questions": [
       "Is the glass near the lamp clean?",
       "What do you see within the glasses?",
-      "What is placed on the base?"
+      "What is placed on the base?",
+      "what is that beside the pen?"
     ],
     "original_questions": [
       "Is the glass near the lamp clean?",
@@ -128729,7 +128889,14 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      2,
+      21,
+      3,
+      9,
+      17,
+      22
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "lamp",
@@ -128838,7 +129005,9 @@
       "base"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000537456.jpg",
@@ -145600,7 +145769,9 @@
       "rim"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      -1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000147448.jpg",
@@ -147671,7 +147842,9 @@
       "dial"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      -1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/val2017/000000363666.jpg",
@@ -150420,7 +150593,14 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      5,
+      2,
+      3,
+      6,
+      4,
+      7
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "watch",
@@ -150450,7 +150630,9 @@
       "rim"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      2
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000526892.jpg",
@@ -165681,7 +165863,17 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      37,
+      30,
+      47,
+      34,
+      44,
+      51,
+      52,
+      46,
+      49
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "box",
@@ -165805,7 +165997,9 @@
       "leg"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      0
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/val2017/000000411938.jpg",
@@ -167521,7 +167715,8 @@
     "questions": [
       "Where is the content resting?",
       "What is holding items on the table?",
-      "What is inside the bowl?"
+      "What is inside the bowl?",
+      "whats inside the bowl under the counter?"
     ],
     "original_questions": [
       "Where is the content resting?",
@@ -180151,7 +180346,10 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      42,
+      43
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "plate",
@@ -180263,7 +180461,9 @@
       "body"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000395241.jpg",
@@ -186455,7 +186655,13 @@
       ]
     ],
     "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_parts_polygons": [
+      3,
+      4,
+      7,
+      1,
+      2
+    ],
     "objects_labels": [
       "box",
       "book",
@@ -186477,7 +186683,9 @@
       "cover"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/val2017/000000548780.jpg",
@@ -189119,7 +189327,10 @@
       ]
     ],
     "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_parts_polygons": [
+      2,
+      0
+    ],
     "objects_labels": [
       "handbag",
       "handbag",
@@ -189143,7 +189354,9 @@
       "strap"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      0
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/val2017/000000298396.jpg",
@@ -200003,7 +200216,18 @@
       ]
     ],
     "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_parts_polygons": [
+      21,
+      39,
+      35,
+      27,
+      38,
+      31,
+      48,
+      47,
+      10,
+      17
+    ],
     "objects_labels": [
       "chair",
       "chair",
@@ -200095,14 +200319,17 @@
       "finger_hole"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      0
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/val2017/000000527528.jpg",
     "questions": [
       "Where is the body placed?",
       "Where does the trash can stand?",
-      "What is next to the kite?"
+      "What is next to the kite?",
+      "what is beside that rash can?"
     ],
     "original_questions": [
       "Where is the body placed?",
@@ -201178,7 +201405,11 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      0,
+      2,
+      1
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "trash_can",
@@ -201194,6 +201425,8 @@
       "leg"
     ],
     "ambiguity": "True",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   }
 ]

@@ -6362,7 +6362,8 @@
     "questions": [
       "What is placed on the desk near the telephone?",
       "Which object has a label on it?",
-      "What is next to the trash_can?"
+      "What is next to the trash_can?",
+      "what is the color of the telephone?"
     ],
     "original_questions": [
       "What is placed on the desk near the telephone?",
@@ -8478,7 +8479,9 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      1
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "trash_can",
@@ -8500,7 +8503,9 @@
       "body"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000280850.jpg",
@@ -24087,7 +24092,8 @@
     "questions": [
       "Is there any text visible on any of the handbags?",
       "How many handbags have visible handles in the image?",
-      "Which handbag has a visible text on it?"
+      "Which handbag has a visible text on it?",
+      "what is inside the plastic bags is the lady beside the lady on red holding?"
     ],
     "original_questions": [
       "Is there any text visible on any of the handbags?",
@@ -27933,7 +27939,10 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      6,
+      5
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "handbag",
@@ -27963,7 +27972,9 @@
       "body"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000282372.jpg",
@@ -39795,7 +39806,9 @@
       "body"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      -1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000511160.jpg",
@@ -40904,7 +40917,9 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      3
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "cup",
@@ -40919,14 +40934,17 @@
       "bezel"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      0
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000062852.jpg",
     "questions": [
       "How many cars are visible in the image?",
       "Which cars are visible on the snowy road?",
-      "Which car has a visible taillight?"
+      "Which car has a visible taillight?",
+      "what is the color of the car behind the SUV on the left?"
     ],
     "original_questions": [
       "How many cars are visible in the image?",
@@ -47930,7 +47948,10 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      12,
+      0
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "car",
@@ -48015,7 +48036,9 @@
       "window"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000268213.jpg",
@@ -92552,7 +92575,10 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      27,
+      53
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "plate",
@@ -92675,7 +92701,9 @@
       "side"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      2
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000581542.jpg",
@@ -99258,7 +99286,9 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      5
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "table",
@@ -99278,7 +99308,9 @@
       "lid"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      2
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000124188.jpg",
@@ -101650,14 +101682,17 @@
       "border"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      -1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000346924.jpg",
     "questions": [
       "What time is shown on the clocks near the trees?",
       "What time is shown on the second clock from the left?",
-      "How many clock faces are visible?"
+      "How many clock faces are visible?",
+      "what is the color of the bus?"
     ],
     "original_questions": [
       "What time is shown on the clocks near the trees?",
@@ -103711,7 +103746,9 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      11
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "clock",
@@ -103736,7 +103773,9 @@
       "headlight"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000544120.jpg",
@@ -104967,7 +105006,8 @@
     "questions": [
       "What is below the saddle of the bicycle?",
       "Which objects are attached to the bicycle?",
-      "Which part of the bicycle is colored purple?"
+      "Which part of the bicycle is colored purple?",
+      "Is the bicycle built for two?"
     ],
     "original_questions": [
       "What is below the saddle of the bicycle?",
@@ -107199,7 +107239,9 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      4
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "hat",
@@ -107221,7 +107263,9 @@
       "pedal"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000394900.jpg",
@@ -114462,7 +114506,9 @@
       "body"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      -1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000219558.jpg",
@@ -115611,7 +115657,10 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      3,
+      2
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "handbag",
@@ -115627,7 +115676,9 @@
       "bezel"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000195271.jpg",
@@ -141866,7 +141917,20 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      8,
+      2,
+      10,
+      1,
+      3,
+      6,
+      0,
+      7,
+      11,
+      5,
+      9,
+      4
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "bench",
@@ -141905,14 +141969,17 @@
       "leg"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000064310.jpg",
     "questions": [
       "What object is next to the earphone?",
       "What part of the earphone is visible around the person's neck?",
-      "What is the color of the headband?"
+      "What is the color of the headband?",
+      "Is the telephone on the far left hand corner of the photo"
     ],
     "original_questions": [
       "What object is next to the earphone?",
@@ -144462,7 +144529,9 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      1
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "earphone",
@@ -144489,7 +144558,9 @@
       "barrel"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000396845.jpg",
@@ -150604,7 +150675,8 @@
     "questions": [
       "What is located next to the calculator on the left side of the desk?",
       "Which mouse is next to the keyboard?",
-      "Which mouse has a wire attached?"
+      "Which mouse has a wire attached?",
+      "Is the calculator on?"
     ],
     "original_questions": [
       "What is located next to the calculator on the left side of the desk?",
@@ -153666,7 +153738,9 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      4
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "mouse",
@@ -153697,7 +153771,9 @@
       "body"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000378482.jpg",
@@ -159356,7 +159432,12 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      2,
+      3,
+      0,
+      1
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "bowl",
@@ -159405,7 +159486,9 @@
       "body"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      0
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000430079.jpg",
@@ -162581,7 +162664,8 @@
     "questions": [
       "Is the ball near the rim or the back?",
       "What color is the ball on the floor?",
-      "What object is next to the ball?"
+      "What object is next to the ball?",
+      "what button is she pressing on the remote?"
     ],
     "original_questions": [
       "Is the ball near the rim or the back?",
@@ -163848,7 +163932,9 @@
       ]
     ],
     "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_parts_polygons": [
+      7
+    ],
     "objects_labels": [
       "mug",
       "mug",
@@ -163868,7 +163954,9 @@
       "back"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000499134.jpg",
@@ -166985,7 +167073,10 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      0,
+      1
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "calculator",
@@ -167020,7 +167111,9 @@
       "body"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      2
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000218305.jpg",
@@ -170655,7 +170748,8 @@
     "questions": [
       "Which handbag is held by the woman in the yellow dress?",
       "What is draped over the woman's shoulders in the yellow dress?",
-      "Which handbag has a visible handle?"
+      "Which handbag has a visible handle?",
+      "Is there a scarf that is gray-like visible?"
     ],
     "original_questions": [
       "Which handbag is held by the woman in the yellow dress?",
@@ -173225,7 +173319,9 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      4
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "handbag",
@@ -173245,7 +173341,9 @@
       "body"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000352399.jpg",
@@ -197523,7 +197621,9 @@
       "base"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      -1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000385795.jpg",
@@ -201642,8 +201742,12 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_objects_polygons": [
+      2
+    ],
+    "selected_parts_polygons": [
+      9
+    ],
     "objects_labels": [
       "shoe",
       "shoe",
@@ -201685,7 +201789,9 @@
       "backstay"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      2
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000319543.jpg",
@@ -204558,7 +204664,9 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      3
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "box",
@@ -204590,7 +204698,9 @@
       "cover"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      0
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000469795.jpg",
@@ -209001,7 +209111,11 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      4,
+      14,
+      13
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "trash_can",
@@ -209037,7 +209151,9 @@
       "body"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      1
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/val2017/000000196141.jpg",
@@ -210240,7 +210356,11 @@
         ]
       ]
     ],
-    "selected_objects_polygons": [],
+    "selected_objects_polygons": [
+      1,
+      2,
+      0
+    ],
     "selected_parts_polygons": [],
     "objects_labels": [
       "belt",
@@ -210257,14 +210377,17 @@
       "visor"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      2
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000560489.jpg",
     "questions": [
       "What color is the handle of the third knife from the left?",
       "Which knives have their blades visible?",
-      "Which handles are next to each other in the knife set?"
+      "Which handles are next to each other in the knife set?",
+      "what type of handle does the first knife to the right has?"
     ],
     "original_questions": [
       "What color is the handle of the third knife from the left?",
@@ -212677,7 +212800,9 @@
       ]
     ],
     "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_parts_polygons": [
+      7
+    ],
     "objects_labels": [
       "knife",
       "knife",
@@ -212701,14 +212826,17 @@
       "blade"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000160940.jpg",
     "questions": [
       "Is the napkin closer to the knife with the blue handle or the knife with the orange handle?",
       "Which hand is holding the knife with the wooden handle?",
-      "Which napkin is closer to the purple drink?"
+      "Which napkin is closer to the purple drink?",
+      "Which direction is the blade of the knife held by the person wearing a wristwatch facing?"
     ],
     "original_questions": [
       "Is the napkin closer to the knife with the blue handle or the knife with the orange handle?",
@@ -213885,7 +214013,9 @@
       ]
     ],
     "selected_objects_polygons": [],
-    "selected_parts_polygons": [],
+    "selected_parts_polygons": [
+      0
+    ],
     "objects_labels": [
       "knife",
       "knife",
@@ -213899,7 +214029,9 @@
       "blade"
     ],
     "ambiguity": "False",
-    "selected_questions": []
+    "selected_questions": [
+      3
+    ]
   },
   {
     "imageURL": "https://images.cocodataset.org/train2017/000000160232.jpg",
